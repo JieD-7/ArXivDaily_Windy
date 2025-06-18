@@ -21,15 +21,11 @@ TARGET_TITLES = [
 
 # Keywords to search
 KEYWORD_LIST = [
-    "acoustic",
-    "reinforcement learning",
-    "reverb",
-    "meta",
-    "separate",
-    "reconstruction",
-    "noise",
-    "enhance",
-    "localization",
+    "voice conversion",
+    "singing synthesis",
+    "TTS",
+    "speech synthesis",
+    "music generation",
     "speech"
 ]
 
